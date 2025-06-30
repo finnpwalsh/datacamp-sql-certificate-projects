@@ -1,6 +1,6 @@
 # Project 1: Analyzing Students' Mental Health
 
-This project was completed as part of the **DataCamp Associate Data Analyst in SQL** certification! It explores the phenomenon that international students experience higher risk of mental health issues, namely social connectedness, (acculturative) stress, and depression than the general population. Note that my sole contribution is the final cell of the notebook. The rest of the notebook and files students.csv and mentalhealth.jpg were provided as a template by DataCamp.
+This project was completed as part of the **DataCamp Associate Data Analyst in SQL** certification! It explores the phenomenon that international students experience higher risk of mental health issues, namely social connectedness, (acculturative) stress, and depression than the general population. Note that my sole contribution is the final cell of the notebook. The rest of the notebook was provided as a template by DataCamp.
 
 
 ## Table of Contents
