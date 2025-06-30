@@ -6,8 +6,6 @@ This project was completed as part of the **DataCamp Associate Data Analyst in S
 ## Table of Contents
 
 - notebook.ipynb # driving notebook provided by DataCamp
-- students.csv # dataset provided by DataCamp
-- mentalhealth.jpg # image used for visualization of mental health provided by DataCamp
 
 
 ## Objectives
