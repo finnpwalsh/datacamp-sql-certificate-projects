@@ -1,14 +1,14 @@
 # Project 1: Analyzing Students' Mental Health
 
-These are two (optional) projects offered by DataCamp in pursuit of the Associate Data Analyst in SQL certification! The first, "Analyzing Students' Mental Health", explores the phenomenon that international students experience higher risk of mental health issues, namely social connectedness, (acculturative) stress, and depression than the general population. Note that my sole contribution is the final cell of the notebook. The rest of the notebook and files students.csv and mentalhealth.jpg were provided as a template by DataCamp.
+This project was completed as part of the **DataCamp Associate Data Analyst in SQL** certification! It explores the phenomenon that international students experience higher risk of mental health issues, namely social connectedness, (acculturative) stress, and depression than the general population. Note that my sole contribution is the final cell of the notebook. The rest of the notebook and files students.csv and mentalhealth.jpg were provided as a template by DataCamp.
 
 
 ## Project Structure
 
 mental-health-project/
-- notebook.ipynb # driving notebook
-- students.csv # dataset
-- mentalhealth.jpg # image for visualization
+- notebook.ipynb # driving notebook provided by DataCamp
+- students.csv # dataset provided by DataCamp
+- mentalhealth.jpg # image used for visualization of mental health provided by DataCamp
 
 
 ## Objectives
