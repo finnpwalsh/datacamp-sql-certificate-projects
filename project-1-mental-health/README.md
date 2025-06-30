@@ -5,7 +5,7 @@ This project was completed as part of the **DataCamp Associate Data Analyst in S
 
 ## Table of Contents
 
-- sql-project1-mental-health.ipynb # driving notebook provided by DataCamp
+- **sql-project1-mental-health.ipynb**, driving notebook provided by DataCamp
 
 
 ## Objectives
