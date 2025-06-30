@@ -37,7 +37,7 @@ All personally identifiable information has been anonymized.
 
 ## License
 
-This project is for **educational use only** and not intended for commercial distribu
+This project is for **educational use only** and not intended for commercial distribution.
 
 ## Acknowledgements
 
