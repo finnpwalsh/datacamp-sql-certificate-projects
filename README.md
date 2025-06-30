@@ -35,10 +35,6 @@ The data is provided as part of the **DataCamp** project workspace and is used f
 All personally identifiable information has been anonymized.
 
 
-## License
-
-This project is for **educational use only** and not intended for commercial distribution.
-
 ## Acknowledgements
 
 Thanks to [DataCamp](https://www.datacamp.com) for providing the learning platform and project structure!
