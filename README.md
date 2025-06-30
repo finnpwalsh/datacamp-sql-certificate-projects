@@ -6,9 +6,9 @@ These are two (optional) projects offered by DataCamp in pursuit of the Associat
 ## Project Structure
 
 mental-health-project/
-  notebook.ipynb # driving notebook
-  students.csv # dataset
-  mentalhealth.jpg # image for visualization
+- notebook.ipynb # driving notebook
+- students.csv # dataset
+- mentalhealth.jpg # image for visualization
 
 
 ## Objectives
